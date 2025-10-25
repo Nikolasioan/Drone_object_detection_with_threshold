@@ -1,0 +1,6 @@
+diffusers
+torch
+opencv-python
+numpy
+matplotlib
+

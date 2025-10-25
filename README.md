@@ -1,0 +1,19 @@
+# Vision-Based Obstacle Detection and Avoidance over Reflective Water
+
+## Mission
+We want to understand how you think about perception and decision-making in dynamic environments.  
+Your challenge is to design and simulate a vision-based obstacle detection and avoidance system for a drone flying over reflective water.
+
+## Scenario
+Imagine a drone flying low (1–2 meters) over the ocean.  
+It must detect and avoid floating obstacles (e.g., buoys or debris) while maintaining stable flight.  
+
+Since we don’t have real flight data yet, you can simulate this using images or synthetic data — what matters is how you reason about detection, decision, and safety.
+
+### Computer Vision Simulation
+Use Python + OpenCV / PyTorch / TensorFlow to demonstrate a pipeline such as:
+
+- Simulate or generate a few frames of a “water surface” with random floating objects (can be shapes or real images).  
+- Use simple detection logic (thresholding, contour detection, optical flow, or YOLO if you prefer).  
+- **Output:** draw bounding boxes or trajectories for detected obstacles.
+
