@@ -17,3 +17,4 @@ Use Python + OpenCV / PyTorch / TensorFlow to demonstrate a pipeline such as:
 - Use simple detection logic (thresholding, contour detection, optical flow, or YOLO if you prefer).  
 - **Output:** draw bounding boxes or trajectories for detected obstacles.
 
+**Primary Limitation of my approach:** The method performs poorly on reflective water. Specifically, it considers reflections to be objects.
