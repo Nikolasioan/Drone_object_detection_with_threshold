@@ -1,4 +1,3 @@
-````markdown
 # Sea Object Detection and Drone Direction Planning
 
 This project generates synthetic sea images and applies a simple computer vision pipeline to detect floating objects and estimate a safe direction for drone navigation.
@@ -49,5 +48,5 @@ main(number_of_images=5)
 * `Images/Bounding_boxes/` — detected objects with bounding boxes
 * `Images/Bounding_boxes_Arrow/` — final result with drone heading direction
 
-```
+
 ```
