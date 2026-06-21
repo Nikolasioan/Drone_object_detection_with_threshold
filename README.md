@@ -47,6 +47,3 @@ main(number_of_images=5)
 * `Images/Threshold/` — binary object masks
 * `Images/Bounding_boxes/` — detected objects with bounding boxes
 * `Images/Bounding_boxes_Arrow/` — final result with drone heading direction
-
-
-```
